@@ -4,7 +4,7 @@
 
 ## Tecnologias que eu uso no meu dia
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,git,github,idea,kali,linux,mysql,nodejs,npm,php,postman,vscode,ts)](https://skillicons.dev)
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
