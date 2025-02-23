@@ -11,5 +11,5 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroSIUberaba&show_icons=true&theme=dracula)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroSIUberaba&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSIUberaba&hide_progress=true&theme=dracula)
 
