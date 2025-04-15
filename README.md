@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,git,github,idea,kali,linux,mysql,nodejs,npm,php,postman,vscode,ts,react,express,androidstudio)](https://skillicons.dev)
 
 
-Me chamo Pedro Henrique, tenho 19 anos e sou natural de Uberaba/MG. Estou cursando Sistemas de Informação na Universidade de Uberaba e sou apaixonado por tecnologia. Tenho experiência no desenvolvimento web e já criei sites para empresas de diferentes segmentos.
+Me chamo Pedro Henrique, tenho 20 anos e sou natural de Uberaba/MG. Estou cursando Sistemas de Informação na Universidade de Uberaba e sou apaixonado por tecnologia. Tenho experiência no desenvolvimento web e já criei sites para empresas de diferentes segmentos.
 
 Além disso, compartilho meus projetos e conhecimentos através do meu site devpedro.tech. Estou sempre buscando aprender e explorar novas tecnologias para aprimorar minhas habilidades e criar soluções inovadoras.
 
