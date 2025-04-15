@@ -4,7 +4,7 @@
 
 ## Tecnologias que eu uso no meu dia
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,git,github,idea,kali,linux,mysql,nodejs,npm,php,postman,vscode,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,git,github,idea,kali,linux,mysql,nodejs,npm,php,postman,vscode,ts,react,express,androidstudio)](https://skillicons.dev)
 
 
 Me chamo Pedro Henrique, tenho 19 anos e sou natural de Uberaba/MG. Estou cursando Sistemas de Informação na Universidade de Uberaba e sou apaixonado por tecnologia. Tenho experiência no desenvolvimento web e já criei sites para empresas de diferentes segmentos.
