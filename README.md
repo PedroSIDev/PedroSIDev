@@ -1,3 +1,5 @@
+![Status](./profile-3d-contrib/profile-green-animate.svg)
+
 ## Olá! Eu sou o Pedro🥇
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedro_hcm_)
