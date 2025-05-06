@@ -1,6 +1,3 @@
-![3D Profile](https://raw.githubusercontent.com/PedroSIUberaba/PedroSIUberaba/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-
 ## Olá! Eu sou o Pedro🥇
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedro_hcm_)
