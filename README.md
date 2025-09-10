@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedro_hcm_)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que ja estudei e continuo estudando!
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,git,github,idea,kali,linux,mysql,nodejs,npm,php,postman,vscode,ts,react,express,androidstudio)](https://skillicons.dev)
 
